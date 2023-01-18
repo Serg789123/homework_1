@@ -8,3 +8,4 @@ while (num_ch <= num)
     Console.Write($"{num_ch}, ");
     num_ch = num_ch + 2;
 }
+Console.Write("\b\b ");

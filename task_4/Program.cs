@@ -4,7 +4,6 @@ Console.Write("Введите число a: ");
 int num_a = int.Parse(Console.ReadLine());
 Console.Write("Введите число b: ");
 int num_b= int.Parse(Console.ReadLine());
-if(num_a > num_b)
 Console.Write("Введите число c: ");
 int num_c = int.Parse(Console.ReadLine());
 int max = 0;
